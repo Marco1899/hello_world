@@ -1,3 +1,4 @@
 Ciao questa è la mia prima repository da solo.
+Sto imparando ad utilizzare git.
+Si spera.
 
-Sto imparando ad utilizzare git.Si spera.
